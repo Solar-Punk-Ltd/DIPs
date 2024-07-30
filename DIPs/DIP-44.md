@@ -15,7 +15,7 @@ Created: 2024-07-29
 
 ### Devcon Agora: A place for talk related community discussions
 
-We are proposing to build a decentralised platform where you can instantly share your thoughts, ask questions, and
+We are proposing to build a decentralized platform where you can instantly share your thoughts, ask questions, and
 engage with fellow Devcon attendees. We’re building a web application (dApp) to do just that.
 
 ## Abstract
@@ -26,7 +26,7 @@ By creating a vibrant online community centered around Devcon presentations, we 
 - Enhance attendee experience: Create opportunities for meaningful connections and knowledge sharing.
 - Drive innovation: Spark new ideas and collaborations through open dialogue.
 
-We believe this decentralised platform has the potential to transform the way we interact at conferences.
+We believe this decentralized platform has the potential to transform the way we interact at conferences.
 
 ## Motivation & Rationale
 
